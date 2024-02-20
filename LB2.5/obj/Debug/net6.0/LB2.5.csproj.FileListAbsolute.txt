@@ -1,0 +1,15 @@
+C:\codes\LB2.5\bin\Debug\net6.0\LB2.5.exe
+C:\codes\LB2.5\bin\Debug\net6.0\LB2.5.deps.json
+C:\codes\LB2.5\bin\Debug\net6.0\LB2.5.runtimeconfig.json
+C:\codes\LB2.5\bin\Debug\net6.0\LB2.5.dll
+C:\codes\LB2.5\bin\Debug\net6.0\LB2.5.pdb
+C:\codes\LB2.5\obj\Debug\net6.0\LB2.5.csproj.AssemblyReference.cache
+C:\codes\LB2.5\obj\Debug\net6.0\LB2.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\codes\LB2.5\obj\Debug\net6.0\LB2.5.AssemblyInfoInputs.cache
+C:\codes\LB2.5\obj\Debug\net6.0\LB2.5.AssemblyInfo.cs
+C:\codes\LB2.5\obj\Debug\net6.0\LB2.5.csproj.CoreCompileInputs.cache
+C:\codes\LB2.5\obj\Debug\net6.0\LB2.5.dll
+C:\codes\LB2.5\obj\Debug\net6.0\refint\LB2.5.dll
+C:\codes\LB2.5\obj\Debug\net6.0\LB2.5.pdb
+C:\codes\LB2.5\obj\Debug\net6.0\LB2.5.genruntimeconfig.cache
+C:\codes\LB2.5\obj\Debug\net6.0\ref\LB2.5.dll
